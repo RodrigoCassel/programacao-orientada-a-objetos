@@ -1,3 +1,5 @@
+#Nomes: Matheus e Rodrigo
+
 import csv
 
 class Perfil:
