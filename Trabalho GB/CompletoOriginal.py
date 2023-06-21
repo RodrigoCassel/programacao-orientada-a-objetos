@@ -1,3 +1,4 @@
+#Nomes: Matheus e Rodrigo
 import csv
 
 class Usuario:
